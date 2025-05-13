@@ -43,4 +43,5 @@ Accuracy was the metric used to measure the performance of model.
 4) Dockerize the application
 5) Use better loggers
 6) Simple RNN/LSTM model should've been given a try
+7) Using more samples for training 
 
